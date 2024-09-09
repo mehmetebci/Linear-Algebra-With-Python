@@ -1,3 +1,4 @@
+
 <font color='purple' size=2.5><i>Updated on Aug 2024</i></font>
 ![Presentation1](https://user-images.githubusercontent.com/59842360/159695863-678be5bc-d146-4340-9592-003ad93241e1.jpg)
 # Lectures of Linear Algebra
